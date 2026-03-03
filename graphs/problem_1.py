@@ -33,3 +33,18 @@ class Solution:
     return visited[node]
 
 
+def main() -> None:
+  node_1 = Node(1)
+  node_2 = Node(2)
+  node_3 = Node(3)
+  node_4 = Node(4)
+  node_1.neighbors = [ node_2, node_4 ]
+  node_2.neighbors = [ node_1, node_3 ]
+  node_3.neighbors = [ node_2, node_4 ]
+  node_4.neighbors = [ node_1, node_3 ]
+  solution = Solution()
+  print(solution.cloneGraph(node_1))
+
+if __name__ == '__main__':
+  main()
+
