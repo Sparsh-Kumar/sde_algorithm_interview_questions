@@ -8,12 +8,12 @@ A collection of graph algorithm solutions in Python, written for interview prep.
 
 | File        | Topic                          |
 | ----------- | ------------------------------ |
-| `problem_1` | Clone graph (deep copy)        |
-| `problem_2` | DFS, BFS from adjacency edges  |
-| `problem_4` | Detect cycle — undirected, DFS |
-| `problem_5` | Detect cycle — undirected, BFS |
-| `problem_6` | Detect cycle — directed, DFS   |
-
+| `graphs/problem_1` | Clone graph (deep copy)        |
+| `graphs/problem_2` | DFS, BFS from adjacency edges  |
+| `graphs/problem_4` | Detect cycle — undirected, DFS |
+| `graphs/problem_5` | Detect cycle — undirected, BFS |
+| `graphs/problem_6` | Detect cycle — directed, DFS   |
+| `graphs/problem_7` | Detect cycle — directed, BFS   |
 ---
 
 ## Run
