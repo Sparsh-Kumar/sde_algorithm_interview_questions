@@ -1,5 +1,5 @@
 
-# https://takeuforward.org/plus/dsa/problems/topological-sort-or-kahns-algorithm (Topological Sort - DFS)
+# https://takeuforward.org/plus/dsa/problems/topological-sort (Topological Sort - DFS)
 
 from typing import Dict, List
 from collections import deque
