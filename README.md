@@ -16,6 +16,7 @@ A collection of graph algorithm solutions in Python, written for interview prep.
 | `graphs/problem_7` | Detect cycle — directed, BFS   |
 | `graphs/problem_8` | Topological Sort - directed, DFS|
 | `graphs/problem_9` | Topological Sort - directed, BFS|
+| `graphs/problem_10` | Bipartite Graph - DFS|
 ---
 
 ## Run
